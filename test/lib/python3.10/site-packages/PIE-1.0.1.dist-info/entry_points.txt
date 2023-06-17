@@ -1,0 +1,2 @@
+[console_scripts]
+pie = PIE.command_line_interface:cli
